@@ -1,6 +1,6 @@
 resume_url: "Resume.pdf"
-author_name: "Ali Yilmaz"
-url: aliyilmaz.site
+author_name: "Serdem Canan Islamoglu"
+url: serdem.me
 
 plugins:
   - jekyll-seo-tag
