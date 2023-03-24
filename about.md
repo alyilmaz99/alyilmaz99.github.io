@@ -4,124 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Ben Kimim?
 
-[Link to another page](./another-page.html).
+Hayat felsefesi olarak farklı bakış açılarından bakmayı seven farkındalık sahibi olup dezavantajlı gruplara karşı hassas davranan aynı zamanda da hak savunuculuğu yapmayı hedefleyen bu hedefi sadece bireysel bazda tutmayıp topluma yönelik sosyal hizmet çalışmalarına öncülük etmekten hoşlanan duyarlı, girişken, liderlik özellikleri ön planda olan sosyal hizmet öğrencisiyim. Sosyal hizmet uzmanı olmak istememdeki en büyük etken kuvvetli iletişimim ve empati düzeyimin yüksek olmasıdır. Bu özelliklerimi dezavantajlı gruplara yönelik çalışmalarımda aktif kullanıp üstün iyilik hallerini gözetmeyi aynı zamanda toplumumuzdaki farkındalık düzeyini de arttırmayı hedeflemekteyim.
 
-There should be whitespace between paragraphs.
+## Okul Hayatim?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Okul hayatıma Diyarbakır Anaokulunda başlamış olup, ilkokul ve ortaokul öğrenim hayatıma Yenişehir ilkokulunda devam ettim. Daha sonra Fatih Sultan Mehmet Anadolu Lisesinde ortaöğrenim hayatımı tamamladım. Yükseköğrenimime Yalova Üniversitesi Yabancı Diller Yüksekokulunda başladım. Başarıyla tamamladıktan sonra Yalova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Sosyal Hizmet Bölümüne başladım. Eğitimime 3. Sınıf öğrencisi olarak devam etmekteyim.
 
-# Header 1
+## Gönüllülük Faaliyetlerim ve Deneyimlerim?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Yalova Üniversitesi bünyesindeki çeşitli kulüp ve çalışmalarda aktif rol aldım. Yalova Üniversitesi Lösemili Çocuklara Fayda Topluluğu ( LÖSEV ) başkanlığı görevimi Aralık 2021 tarihinden beri yapmaktayım.
+Teknolojiden Uzakta Sosyal Sorumluluk Projesinde yer aldım.
+İnci Seminerlerini ilkokul ortaokul ve lise düzeyindeki öğrencilere aktarıp farkındalık sahibi olmalarına yardımcı oldum.
+Yalova Gençlik ve Spor İl Müdürlüğünde Uluslararası Staj Programı kapsamında tam zamanlı staj yaptım. (Haziran – Temmuz 2022)
 
-## Header 2
+## Bana Ulasabileceginiz Adresler?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-## Emojis
+- [**EMAIL (serdemcanan2727@gamil.com)**](https://serdemcanan2727@gmail.com).
+- [**LINKEDIN**](https://linkedin.com/in/serdem-canan-islamoğlu-6842a9219/).
