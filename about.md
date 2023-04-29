@@ -21,5 +21,5 @@ Yalova Gençlik ve Spor İl Müdürlüğünde Uluslararası Staj Programı kapsa
 
 ## Bana Ulasabileceginiz Adresler?
 
-- [**EMAIL (serdemcanan2727@gamil.com)**](https://serdemcanan2727@gmail.com).
-- [**LINKEDIN**](https://linkedin.com/in/serdem-canan-islamoğlu-6842a9219/).
+- [Email](mailto:serdemcanan2727@gmail.com).
+- [LINKEDIN](https://linkedin.com/in/serdem-canan-islamoğlu-6842a9219/).
