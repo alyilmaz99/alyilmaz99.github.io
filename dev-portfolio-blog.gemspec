@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "dev-portfolio-blog"
   spec.version       = "0.1.8"
-  spec.authors       = ["Rohit Jain"]
+  spec.authors       = ["Serdem Canan Islamoglu"]
   spec.email         = ["rohitjain18005@gmail.com"]
 
   spec.summary       = "This is a simple efficient blog and portfolio"
